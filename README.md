@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto, Blockchain, Machine Learning
 - 🌱 I’m currently learning Rust, Angular
 - 💞️ I’m looking to collaborate on Crypto Tech
-- 📫 How to reach me ...
+- 📫 Reach me on chouhanpiyush142@gmail.com
 
 <!---
 Piyush142/Piyush142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
