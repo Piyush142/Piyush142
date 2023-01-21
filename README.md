@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piyush142
-- 👀 I’m interested in Crypto, Blockchain, Machine Learning
+- 👀 I’m interested in Web3, Crypto, Blockchain, Machine Learning
 - 🌱 I’m currently learning Rust, Angular
 - 💞️ I’m looking to collaborate on Crypto Tech
 - 📫 Reach me on chouhanpiyush142@gmail.com
